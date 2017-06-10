@@ -103,3 +103,4 @@ src/.idea/modules.xml
 src/.idea/src.iml
 src/.idea/workspace.xml
 src/_pycache__
+.DS_Store
